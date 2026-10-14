@@ -43,11 +43,14 @@ Competed in the **"Qwen Cup: Qwen Multimodal Reasoning Challenge"**, leading the
 
 ### 🖼️ CSIG Camera Academic Star — Generative Image Enhancement
 
-*2026 CSIG Camera Academic Star · Track 1*
+A public project archive for the 2026 CSIG Camera Academic Star Track 1 challenge, focused on controllable generative image enhancement for difficult 4K scenes.
 
-Controllable generative image enhancement for degraded 4K images: **FreqOrtho-SR** preserves scene structure while **TADSR** performs time-aware one-step diffusion refinement, with an interpretable utility rule selecting the final output. Official preliminary score **4.0003** (rank **15 / 513**).
+- Official preliminary score: **4.0003**
+- Preliminary ranking: **15 / 513**
+- Method: FreqOrtho-SR structure recovery + TADSR diffusion refinement
+- Hardware: single NVIDIA A100 40GB
 
-🔗 Public write-up: [track1-generative-image-enhancement-public](https://github.com/qiuy-ue/track1-generative-image-enhancement-public)
+🔗 Public project: [track1-generative-image-enhancement-public](https://github.com/qiuy-ue/track1-generative-image-enhancement-public)
 
 ---
 
