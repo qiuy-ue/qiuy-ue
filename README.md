@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 你好，我是秋宇（qiuy-ue）
 
-<!--
-**qiuy-ue/qiuy-ue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 车辆工程专业，辅修电机控制及应用
+🔍 关注数据科学、人工智能、计算机视觉与多模态算法
+💡 喜欢使用 Python、机器学习和深度学习解决实际问题
 
-Here are some ideas to get you started:
+## 🛠️ 技术方向
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python、MATLAB、SPSS
+- PyTorch、计算机视觉、图像处理
+- 数据采集、数据清洗、数据分析与可视化
+- 机器学习与深度学习模型训练
+- 大模型与多模态推理
+- CAE 有限元仿真与增材制造
+- 电机控制、嵌入式与智能软硬件
+
+## 📌 重点项目
+
+### THU-BDC2026
+
+围绕数据分析、特征处理与机器学习建模开展实践，探索算法在真实数据问题中的应用。
+
+### PyTorch CIFAR100
+
+使用 ResNet、DenseNet、VGG、Inception、MobileNet 等经典网络进行图像分类实验，用于理解深度学习模型结构、训练流程和性能对比。
+
+### 图像增强与计算机视觉
+
+围绕图像增强、视觉识别和模型微调开展实验，关注复杂场景下的图像质量提升与模型泛化能力。
+
+## 🌱 当前关注
+
+- 大模型与多模态推理
+- 计算机视觉与图像增强
+- 数据分析与智能决策
+- 深度学习模型微调
+- 算法竞赛与可复现实验
+
+## 📫 联系我
+
+- GitHub: [@qiuy-ue](https://github.com/qiuy-ue)
+- Email: zifeiqiuyue78@gmail.com
