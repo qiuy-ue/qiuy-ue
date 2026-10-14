@@ -43,11 +43,14 @@ Competed in the **"Qwen Cup: Qwen Multimodal Reasoning Challenge"**, leading the
 
 ### 🖼️ CSIG Camera Academic Star — Generative Image Enhancement
 
-*Private project*
+A public project archive for the 2026 CSIG Camera Academic Star Track 1 challenge, focused on controllable generative image enhancement for difficult 4K scenes.
 
-Model fine-tuning and experimental validation on **generative image enhancement and controllability**, focusing on image-quality improvement in complex scenes, visual detail restoration and model generalization.
+- Official preliminary score: **4.0003**
+- Preliminary ranking: **15 / 513**
+- Method: FreqOrtho-SR structure recovery + TADSR diffusion refinement
+- Hardware: single NVIDIA A100 40GB
 
----
+🔗 Public project: [track1-generative-image-enhancement-public](https://github.com/qiuy-ue/track1-generative-image-enhancement-public)
 
 ## 🌱 Currently Exploring
 
