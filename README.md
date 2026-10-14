@@ -1,54 +1,89 @@
-# 👋 你好，我是秋宇（qiuy-ue）
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Merriweather&pause=1000&center=true&vCenter=true&width=1000&lines=Welcome+to+Qiuyu%27s+GitHub!;Data+Science+%C2%B7+Computer+Vision+%C2%B7+Multimodal+Reasoning)](https://git.io/typing-svg)
 
-🎓 车辆工程专业，辅修电机控制及应用
-🔍 关注数据科学、人工智能、计算机视觉与多模态算法
-💡 喜欢使用 Python、机器学习和深度学习解决实际问题
+# 👋 Hi there, I'm Qiuyu (qiuy-ue)
 
+🎓 Majoring in **Vehicle Engineering** at **Changzhou Institute of Technology**, with a minor in **Motor Control & Applications**
+🔍 Focused on **Data Science, Artificial Intelligence, Computer Vision & Multimodal Algorithms**
+💡 Enjoy using **Python, machine learning and deep learning** to solve real-world problems
+📍 Based in Changzhou, Jiangsu, China
 
-## 🛠️ 技术方向
+---
 
+## 🛠️ Tech Stack
 
-- Python、MATLAB、SPSS
-- PyTorch、计算机视觉、图像处理
-- 数据采集、数据清洗、数据分析与可视化
-- 机器学习与深度学习模型训练
-- 大模型与多模态推理
-- 电机控制、嵌入式与智能软硬件
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-ED8B00?style=flat-square&logo=mathworks&logoColor=white)
+![SPSS](https://img.shields.io/badge/-SPSS-052FAD?style=flat-square&logo=ibm&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
+- Python · MATLAB · SPSS
+- PyTorch · computer vision · image processing
+- Data collection, cleaning, analysis & visualization
+- Machine-learning & deep-learning model training
+- Large language models & multimodal reasoning
+- Motor control · embedded systems · intelligent software and hardware
 
-## 📌 重点项目
+---
 
+## 📌 Featured Projects
 
-### 千问杯多模态推理挑战赛
+### 🧠 Qwen Cup Multimodal Reasoning Challenge
 
+*Pazhou Algorithm Competition · AI Large-Model Algorithm Track*
 
-参加琶洲算法大赛 AI 大模型算法优选赛「千问杯：千问多模态推理挑战赛」，负责多模态模型的教师蒸馏、SFT 与 GRPO 强化学习方案设计。
+Competed in the **"Qwen Cup: Qwen Multimodal Reasoning Challenge"**, leading the design of the teacher-distillation, SFT and GRPO reinforcement-learning pipeline for a multimodal model.
 
+- 🏁 Final-round submission: **`rlx30`**
+- 📈 Final-round platform best: **20.2**
+- 🚀 Preliminary round: **41.8**
+- 🔧 Pipeline: Qwen multimodal model + teacher-distillation SFT + small-dose GRPO
 
-- 决赛提交版本：rlx30
-- 决赛平台最高成绩：20.2 分
-- 初赛成绩：41.8 分
-- 技术路线：Qwen 多模态模型 + 教师蒸馏 SFT + 小剂量 GRPO
-- 公开项目：[qwen-multimodal-reasoning-2026](https://github.com/qiuy-ue/qwen-multimodal-reasoning-2026)
+🔗 Public write-up: [qwen-multimodal-reasoning-2026](https://github.com/qiuy-ue/qwen-multimodal-reasoning-2026)
 
+### 🖼️ CSIG Camera Academic Star — Generative Image Enhancement
 
-### CSIG Camera 学术之星：生成式图像增强
+*Private project*
 
+Model fine-tuning and experimental validation on **generative image enhancement and controllability**, focusing on image-quality improvement in complex scenes, visual detail restoration and model generalization.
 
-私人项目，围绕生成式图像增强与可控性开展模型微调和实验验证，关注复杂场景下的图像质量提升、视觉细节恢复与模型泛化能力。
+---
 
+## 🌱 Currently Exploring
 
-## 🌱 当前关注
+- Large language models & multimodal reasoning
+- Computer vision & image enhancement
+- Data analysis & intelligent decision-making
+- Deep-learning model fine-tuning
 
+---
 
-- 大模型与多模态推理
-- 计算机视觉与图像增强
-- 数据分析与智能决策
-- 深度学习模型微调
+## 📫 Let's Connect
 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/qiuy-ue)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zifeiqiuyue78@gmail.com)
 
-## 📫 联系我
+---
 
+<div align="center">
 
-- GitHub: [@qiuy-ue](https://github.com/qiuy-ue)
-- Email: zifeiqiuyue78@gmail.com
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=qiuy-ue&show_icons=true&theme=transparent" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=qiuy-ue&layout=donut&langs_count=5&card_width=320&theme=transparent" />
+</a>
+
+[![Qiuyu's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=qiuy-ue&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qiuy-ue/qiuy-ue/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qiuy-ue/qiuy-ue/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/qiuy-ue/qiuy-ue/output/github-contribution-grid-snake.svg">
+</picture>
+
+![Profile Views](https://komarev.com/ghpvc/?username=qiuy-ue&label=Profile%20Views&color=0e75b6&style=flat)
+
+⭐️ Thanks for stopping by!
+
+</div>
