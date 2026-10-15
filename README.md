@@ -1,65 +1,66 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Merriweather&pause=1000&center=true&vCenter=true&width=1000&lines=Welcome+to+Qiuyu%27s+GitHub!;Data+Science+%C2%B7+Computer+Vision+%C2%B7+Multimodal+Reasoning)](https://git.io/typing-svg)
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=700&size=17&color=0078D7&center=true&pause=100000&width=640&lines=Hi%2C+I%27m+Qiuyu.+AI+%26+Multimodal+Reasoning+Enthusiast" alt="Hi"/>
+  <p>
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px"/>
+    <strong>我目前专注于大模型与多模态推理。</strong>
+  </p>
 
-# 👋 Hi there, I'm Qiuyu (qiuy-ue)
+  <p>
+    <code>🎓 Vehicle Engineering · Changzhou Institute of Technology</code>
+    <code>📍 Base in Changzhou, Jiangsu, China</code>
+  </p>
 
-🎓 Majoring in **Vehicle Engineering** at **Changzhou Institute of Technology**, with a minor in **Motor Control & Applications**
-🔍 Focused on **Data Science, Artificial Intelligence, Computer Vision & Multimodal Algorithms**
-💡 Enjoy using **Python, machine learning and deep learning** to solve real-world problems
-📍 Based in Changzhou, Jiangsu, China
+</div>
 
----
+<table>
+<tr>
+<td valign="top" width="50%">
 
-## 🛠️ Tech Stack
+#### 📌 Featured Projects
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/-MATLAB-ED8B00?style=flat-square&logo=mathworks&logoColor=white)
-![SPSS](https://img.shields.io/badge/-SPSS-052FAD?style=flat-square&logo=ibm&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+**🧠 Qwen Cup Multimodal Reasoning Challenge** · *Pazhou Algorithm Competition, AI Large-Model Track*
 
-- Python · MATLAB · SPSS
-- PyTorch · computer vision · image processing
-- Data collection, cleaning, analysis & visualization
-- Machine-learning & deep-learning model training
-- Large language models & multimodal reasoning
-- Motor control · embedded systems · intelligent software and hardware
+A public technical archive of the teacher-distillation SFT + small-dose GRPO pipeline on a Qwen3.5-0.8B multimodal model.
 
----
+- 🏁 Final submission **`rlx30`** · platform best **20.2** · preliminary **41.8**
+- 🔧 Qwen3.5-0.8B multimodal + teacher-distillation SFT + 30-step GRPO
+- 🔗 [qwen-multimodal-reasoning-2026](https://github.com/qiuy-ue/qwen-multimodal-reasoning-2026)
 
-## 📌 Featured Projects
-
-### 🧠 Qwen Cup Multimodal Reasoning Challenge
-
-*Pazhou Algorithm Competition · AI Large-Model Algorithm Track*
-
-Competed in the **"Qwen Cup: Qwen Multimodal Reasoning Challenge"**, leading the design of the teacher-distillation, SFT and GRPO reinforcement-learning pipeline for a multimodal model.
-
-- 🏁 Final-round submission: **`rlx30`**
-- 📈 Final-round platform best: **20.2**
-- 🚀 Preliminary round: **41.8**
-- 🔧 Pipeline: Qwen multimodal model + teacher-distillation SFT + small-dose GRPO
-
-🔗 Public write-up: [qwen-multimodal-reasoning-2026](https://github.com/qiuy-ue/qwen-multimodal-reasoning-2026)
-
-### 🖼️ CSIG Camera Academic Star — Generative Image Enhancement
+**🖼️ CSIG Camera Academic Star — Generative Image Enhancement** · *2026 CSIG Camera Academic Star, Track 1*
 
 A public project archive for the 2026 CSIG Camera Academic Star Track 1 challenge, focused on controllable generative image enhancement for difficult 4K scenes.
 
-- Official preliminary score: **4.0003**
-- Preliminary ranking: **15 / 513**
-- Method: FreqOrtho-SR structure recovery + TADSR diffusion refinement
-- Hardware: single NVIDIA A100 40GB
+- 📈 Official preliminary score **4.0003** · ranking **15 / 513**
+- 🔧 FreqOrtho-SR structure recovery + TADSR diffusion refinement · single A100 40GB
+- 🔗 [track1-generative-image-enhancement-public](https://github.com/qiuy-ue/track1-generative-image-enhancement-public)
 
-🔗 Public project: [track1-generative-image-enhancement-public](https://github.com/qiuy-ue/track1-generative-image-enhancement-public)
+</td>
+<td valign="top" width="48%">
 
----
+#### 🛠️ Tech Stack
 
-## 🌱 Currently Exploring
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-ED8B00?style=flat-square&logo=mathworks&logoColor=white)
+![SPSS](https://img.shields.io/badge/-SPSS-052FAD?style=flat-square&logo=ibm&logoColor=white)
 
+- Python · PyTorch · OpenCV · MATLAB · SPSS
 - Large language models & multimodal reasoning
 - Computer vision & image enhancement
-- Data analysis & intelligent decision-making
+- ML / DL model training & fine-tuning
+- Data collection, cleaning & visualization
+- Motor control · embedded systems
+
+#### 🌱 Currently Exploring
+
+- LLM post-training & multimodal reasoning
+- Generative image enhancement & controllability
 - Deep-learning model fine-tuning
+
+</td>
+</tr>
+</table>
 
 ---
 
