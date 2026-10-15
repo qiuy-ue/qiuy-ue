@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=700&size=17&color=0078D7&center=true&pause=100000&width=640&lines=Hi%2C+I%27m+qiuyue.+AI+%26+Multimodal+Reasoning+Enthusiast" alt="Hi"/>
   <p>
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px"/>
-    <strong>我目前专注于大模型与多模态推理。</strong>
+    <strong>I'm currently focused on LLM & multimodal reasoning.</strong>
   </p>
 
   <p>
@@ -11,9 +11,9 @@
   </p>
 
   <p>
-    🎓 车辆工程专业，辅修电机控制及应用<br/>
-    🔍 关注数据科学、人工智能、计算机视觉与多模态算法<br/>
-    💡 喜欢使用 Python、机器学习和深度学习解决实际问题
+    🎓 Vehicle Engineering major, with a minor in Motor Control & Applications<br/>
+    🔍 Focused on Data Science, Artificial Intelligence, Computer Vision & Multimodal Algorithms<br/>
+    💡 Enjoy using Python, machine learning and deep learning to solve real-world problems
   </p>
 
 </div>
