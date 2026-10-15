@@ -10,6 +10,12 @@
     <code>📍 Base in Changzhou, Jiangsu, China</code>
   </p>
 
+  <p>
+    🎓 车辆工程专业，辅修电机控制及应用<br/>
+    🔍 关注数据科学、人工智能、计算机视觉与多模态算法<br/>
+    💡 喜欢使用 Python、机器学习和深度学习解决实际问题
+  </p>
+
 </div>
 
 ---
