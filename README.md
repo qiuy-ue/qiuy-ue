@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=700&size=17&color=0078D7&center=true&pause=100000&width=640&lines=Hi%2C+I%27m+Qiuyu.+AI+%26+Multimodal+Reasoning+Enthusiast" alt="Hi"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=700&size=17&color=0078D7&center=true&pause=100000&width=640&lines=Hi%2C+I%27m+qiuyue.+AI+%26+Multimodal+Reasoning+Enthusiast" alt="Hi"/>
   <p>
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px"/>
     <strong>我目前专注于大模型与多模态推理。</strong>
