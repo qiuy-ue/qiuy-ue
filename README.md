@@ -12,55 +12,59 @@
 
 </div>
 
-<table>
-<tr>
-<td valign="top" width="50%">
+---
 
-#### 📌 Featured Projects
+## 🛠️ Tech Stack
 
-**🧠 Qwen Cup Multimodal Reasoning Challenge** · *Pazhou Algorithm Competition, AI Large-Model Track*
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-ED8B00?style=flat-square&logo=mathworks&logoColor=white)
+![SPSS](https://img.shields.io/badge/-SPSS-052FAD?style=flat-square&logo=ibm&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-A public technical archive of the teacher-distillation SFT + small-dose GRPO pipeline on a Qwen3.5-0.8B multimodal model.
+- Python · MATLAB · SPSS
+- PyTorch · computer vision · image processing
+- Data collection, cleaning, analysis & visualization
+- Machine-learning & deep-learning model training
+- Large language models & multimodal reasoning
+- Motor control · embedded systems · intelligent software and hardware
 
-- 🏁 Final submission **`rlx30`** · platform best **20.2** · preliminary **41.8**
-- 🔧 Qwen3.5-0.8B multimodal + teacher-distillation SFT + 30-step GRPO
-- 🔗 [qwen-multimodal-reasoning-2026](https://github.com/qiuy-ue/qwen-multimodal-reasoning-2026)
+---
 
-**🖼️ CSIG Camera Academic Star — Generative Image Enhancement** · *2026 CSIG Camera Academic Star, Track 1*
+## 📌 Featured Projects
+
+### 🧠 Qwen Cup Multimodal Reasoning Challenge
+
+*Pazhou Algorithm Competition · AI Large-Model Algorithm Track*
+
+Competed in the **"Qwen Cup: Qwen Multimodal Reasoning Challenge"**, leading the design of the teacher-distillation, SFT and GRPO reinforcement-learning pipeline for a multimodal model.
+
+- 🏁 Final-round submission: **`rlx30`**
+- 📈 Final-round platform best: **20.2**
+- 🚀 Preliminary round: **41.8**
+- 🔧 Pipeline: Qwen multimodal model + teacher-distillation SFT + small-dose GRPO
+
+🔗 Public write-up: [qwen-multimodal-reasoning-2026](https://github.com/qiuy-ue/qwen-multimodal-reasoning-2026)
+
+### 🖼️ CSIG Camera Academic Star — Generative Image Enhancement
 
 A public project archive for the 2026 CSIG Camera Academic Star Track 1 challenge, focused on controllable generative image enhancement for difficult 4K scenes.
 
-- 📈 Official preliminary score **4.0003** · ranking **15 / 513**
-- 🔧 FreqOrtho-SR structure recovery + TADSR diffusion refinement · single A100 40GB
-- 🔗 [track1-generative-image-enhancement-public](https://github.com/qiuy-ue/track1-generative-image-enhancement-public)
+- Official preliminary score: **4.0003**
+- Preliminary ranking: **15 / 513**
+- Method: FreqOrtho-SR structure recovery + TADSR diffusion refinement
+- Hardware: single NVIDIA A100 40GB
 
-</td>
-<td valign="top" width="48%">
+🔗 Public project: [track1-generative-image-enhancement-public](https://github.com/qiuy-ue/track1-generative-image-enhancement-public)
 
-#### 🛠️ Tech Stack
+---
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![MATLAB](https://img.shields.io/badge/-MATLAB-ED8B00?style=flat-square&logo=mathworks&logoColor=white)
-![SPSS](https://img.shields.io/badge/-SPSS-052FAD?style=flat-square&logo=ibm&logoColor=white)
+## 🌱 Currently Exploring
 
-- Python · PyTorch · OpenCV · MATLAB · SPSS
 - Large language models & multimodal reasoning
 - Computer vision & image enhancement
-- ML / DL model training & fine-tuning
-- Data collection, cleaning & visualization
-- Motor control · embedded systems
-
-#### 🌱 Currently Exploring
-
-- LLM post-training & multimodal reasoning
-- Generative image enhancement & controllability
+- Data analysis & intelligent decision-making
 - Deep-learning model fine-tuning
-
-</td>
-</tr>
-</table>
 
 ---
 
