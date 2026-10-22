@@ -63,6 +63,14 @@ A public project archive for the 2026 CSIG Camera Academic Star Track 1 challeng
 
 🔗 Public project: [track1-generative-image-enhancement-public](https://github.com/qiuy-ue/track1-generative-image-enhancement-public)
 
+### 🤝 Qwen Cup Multimodal Reasoning — Collaboration Repository
+
+*Collaborator · owned by [cainiao33](https://github.com/cainiao33)*
+
+A public collaboration repository for the Qwen Cup multimodal reasoning challenge, built on the teacher-distillation SFT + small-dose GRPO route with the full data-engineering and ablation chain.
+
+🔗 Repository: [cainiao33/Qwen-Cup-Multimodal-RL](https://github.com/cainiao33/Qwen-Cup-Multimodal-RL)
+
 ---
 
 ## 🌱 Currently Exploring
